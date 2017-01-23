@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class WindowCantainer extends MovieClip {						public function WindowCantainer() {			// constructor code		}	}	}
